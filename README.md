@@ -13,5 +13,6 @@ Dependcy:
     pip install opencv-python
 
     pip install BeautifulSoup
+    pip install beautifulsoup4
 
     sudo apt-get install tesseract-ocr
